@@ -19,5 +19,5 @@ CONFIG_LV_FONT_DEFAULT_MONTSERRAT_26=y
 You can rotate the custom widget by 180 degrees. To do so, add the following item to your `.conf` file:
 
 ```
-CONFIG_NICE_VIEW_ROTATE_180=y
+CONFIG_NICE_VIEW_DISP_ROTATE_180=y
 ```
